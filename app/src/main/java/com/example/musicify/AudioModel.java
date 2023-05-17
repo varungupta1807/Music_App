@@ -1,5 +1,4 @@
 package com.example.musicify;
-
 import java.io.Serializable;
 
 public class AudioModel implements Serializable {
